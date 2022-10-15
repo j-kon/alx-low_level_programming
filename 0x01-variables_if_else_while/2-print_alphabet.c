@@ -5,7 +5,7 @@
 *
 * Return: Always 0.
 */
-int manin(void)
+int main(void)
 {
 	char letter;
 
