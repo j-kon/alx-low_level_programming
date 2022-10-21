@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * more_numbers - nmbr fct
- * Jaykon ICT file
- * Return: no return
+ * print_most_numbers - prints
+ * owned by Jaykon
+ * Return: void
  */
 
 void print_more_numbers(void)
