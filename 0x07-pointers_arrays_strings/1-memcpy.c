@@ -1,4 +1,4 @@
-nclude "main.h"
+#include "main.h"
 
 /**
  * _memcpy - function copies @n bytes from memory area @src
